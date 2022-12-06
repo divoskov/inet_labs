@@ -44,6 +44,7 @@
 
 Локальная сеть была построена и настроена в GNS3.
 Графическое представление сети: [картинка](https://github.com/divoskov/inet_labs/blob/main/scrnsht.png)
+
 Файл для импорта конфигурации: [ссылка на google drive](https://drive.google.com/drive/folders/1lyq3YGRuK1nAnVEorGhXMHKcW59VxNZY?usp=sharing)
 
 ##  Экзаменационные билет №12
