@@ -49,4 +49,5 @@
 
 ##  Экзаменационные билет №12
 
-Ответ на экзаменационный билет доступен по ссылке: [Билет-12](https://github.com/stankin/inet-2022/wiki/exam12)
+Ответ на экзаменационный билет доступен по ссылке: [Билет-12](https://github.com/stankin/inet-2022/wiki/exam12), [commit revisions](https://github.com/stankin/inet-2022/wiki/exam12/_compare/73980a57fd0de2af2ee918952a1687e79eb134da...989da7e51f22e83fcb95af49eff1586c0c11c67a?diff=unified)
+
